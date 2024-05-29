@@ -155,6 +155,11 @@ class ColorPickerViewController: UIViewController {
 }
 ```
 
+## 🚀 Referências
+Projeto desenvolvido como parte do <a href="https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4">
+curso de desenvolvimento iOS, do Desenvolvedor Eric Alves Brito</a>.
+
+
 ## 🚀 Como Rodar o Projeto
 * **Clone o Repositório:**
 
