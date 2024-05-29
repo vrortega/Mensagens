@@ -5,26 +5,22 @@ O app "Mensagens" permite alterar a cor do texto, a cor de fundo da mensagem, e 
 
 ## 📂 Estrutura do Projeto
 
-Mensagens
-│
-├── Controllers
-│ ├── BaseViewController.swift
-│ ├── MessageViewController.swift
-│ ├── MessageColorViewController.swift
-│ ├── ScreenColorViewController.swift
-│ ├── ResultViewController.swift
-│ └── ColorPickerViewController.swift
-│
-├── Models
-│ └── Message.swift
-│
-├── Views
-│ └── Main.storyboard
-│
-├── Resources
-│ └── Assets.xcassets
-│
-└── Info.plist
+- Mensagens
+  - Controllers
+    - BaseViewController.swift
+    - MessageViewController.swift
+    - MessageColorViewController.swift
+    - ScreenColorViewController.swift
+    - ResultViewController.swift
+    - ColorPickerViewController.swift
+  - Models
+    - Message.swift
+  - Views
+    - Main.storyboard
+  - Resources
+    - Assets.xcassets
+  - Info.plist
+
 
 ## 📜 Superclasse `BaseViewController`
 Define as propriedades compartilhadas `message` (uma instância da struct `Message`) e `messageLb` (UILabel para exibir a mensagem).
