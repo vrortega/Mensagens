@@ -155,11 +155,6 @@ class ColorPickerViewController: UIViewController {
 }
 ```
 
-## 🚀 Referências
-Projeto desenvolvido como parte do <a href="https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4">
-curso de desenvolvimento iOS, do Desenvolvedor Eric Alves Brito</a>.
-
-
 ## 🚀 Como Rodar o Projeto
 * **Clone o Repositório:**
 
@@ -178,3 +173,8 @@ Se o projeto utilizar CocoaPods, execute `pod install` para instalar as dependê
 * **Compile e Rode o Projeto:**
 
 Pressione `Cmd + R` ou clique no botão de rodar no Xcode.
+
+## 📖 Referência
+Projeto desenvolvido como parte do <a href="https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4" target="_blank">
+curso de desenvolvimento iOS, do Desenvolvedor Eric Alves Brito</a>.
+
