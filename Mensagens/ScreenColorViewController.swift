@@ -30,7 +30,7 @@ class ScreenColorViewController: BaseViewController {
        let colorPicker = storyboard?.instantiateViewController(identifier: "ColorPickerViewController") as! ColorPickerViewController
             colorPicker.modalPresentationStyle = .overCurrentContext
         colorPicker.reference = self
-            present(colorPicker, animated: true, completion: nil)
+            present(colorPicker, animated: false, completion: nil)
     }
     
     override func viewWillAppear(_ animated: Bool) {
