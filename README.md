@@ -149,7 +149,7 @@ class ColorPickerViewController: UIViewController {
 * **Clone o Repositório:**
 
 ```sh
-git clone https://github.com/seu-usuario/mensagens.git
+git clone https://github.com/vrortega/Mensagens.git
 cd mensagens
 ```
 * **Abra o Projeto no Xcode:**
