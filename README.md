@@ -21,6 +21,16 @@ O app "Mensagens" permite alterar a cor do texto, a cor de fundo da mensagem, e 
     - Assets.xcassets
   - Info.plist
 
+## 📱 Imagens do APP
+<div align="center">
+<p float="left">
+<img src="https://i.imgur.com/6k3tI6g.png" alt="LaunchScreen" width="150">
+<img src="https://i.imgur.com/OsoEonu.png" alt="MessageViewController" width="150">
+<img src="https://i.imgur.com/EpIDinU.png" alt="MessageColorViewController" width="150">
+<img src="https://i.imgur.com/DMGMYBN.png" alt="ScreenColorViewController" width="150">
+<img src="https://i.imgur.com/ZXHd6XG.png" alt="ResultViewController" width="150">
+</p>
+</div>
 
 ## 📜 Superclasse `BaseViewController`
 Define as propriedades compartilhadas `message` (uma instância da struct `Message`) e `messageLb` (UILabel para exibir a mensagem).
